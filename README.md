@@ -1,12 +1,14 @@
-# Project Name
+# Polyphonic Analog Synthesizer
 
 > A 4-voice, fully polyphonic analog synthesizer, based on the Prophet-5 synthesizer from the 1970s.
 Each voice will be designed to have its own voltage controlled oscillator, filter, and amplifier, with tone shaping via via envelopes. A microcontroller (RP2350) handles voice allocation and tuning tables, with audio generation remaining entirely analog.
 
-## Project Owner
+## Contact
 
 **Name:** Fleur Maravilla Gatchalian  
 **Virginia Tech Email:** fleurgatch06@vt.edu
+**LinkedIn:** https://www.linkedin.com/in/fleurgatch06/
+**Github:** https://github.com/fleurgatch06
 
 ## Project Overview
 
