@@ -161,7 +161,7 @@ Explain major design decisions and why you made them.
 | 12 VAC 1 A wall adapter | 1 | $12.00 | DigiKey |
 | 7812 / 7912 / 7805 regulators, rectifiers, filter capacitors | 1 lot | $6.00 | DigiKey |
 | Audio/CV jacks | 1 lot | $4.00 | DigiKey |
-| JLCPCB 2-layer PCBs, incl. shipping (spring) | 2 designs × 5 | $40.00 | [JLCPCB](https://jlcpcb.com) |
+| JLCPCB 2-layer PCBs, incl. shipping (spring) | 2 designs * 5 boards | $40.00 | [JLCPCB](https://jlcpcb.com) |
 | MCP4728 bare chips for the PCB (spring) | 3 | $5.01 | [LCSC](https://www.lcsc.com/product-detail/C627341.html) |
 
 **Estimated Total Cost:** $245.69 (around \$270 with shipping/tax)
